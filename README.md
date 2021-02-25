@@ -7,3 +7,5 @@
 ## 4. useMemo()
 
 ## 5. useCallback()
+
+## 6. useContext()
