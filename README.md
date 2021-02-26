@@ -9,3 +9,5 @@
 ## 5. useCallback()
 
 ## 6. useContext()
+
+## 7. useReducer()
